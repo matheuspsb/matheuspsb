@@ -1,6 +1,6 @@
-### Bem vindo!
-##
-Eu sou Matheus Paulo!
+### <h1 font-size:35em>Bem vindo!</h1>
+<h3 font-size:10em>Eu sou Matheus Paulo!</h3>
+
 - 🌱 Estudando JavaScript
 - 📫 Contato: matheusslg1@gmail.com
 ##
