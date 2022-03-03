@@ -22,6 +22,6 @@ Eu sou Matheus Paulo!
   <a href="https://api.whatsapp.com/send/?phone=5583996917370&text&app_absent=0" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/226nsgtez3smgauwdtjhzgyfy" alt="Spotify" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black" target="_blank"></a>
   
-    ![Snake animation](https://github.com/rafaballerini/matheuspsb/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/matheuspsb/matheuspsb/blob/output/github-contribution-grid-snake.svg)
   
   </div>
