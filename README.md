@@ -1,7 +1,7 @@
 ### <h1 font-size:35em>Bem vindo!</h1>
 <h3 font-size:10em>Eu sou Matheus Paulo!</h3>
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Javascript
 - 📫 Contato: matheusslg1@gmail.com
 ##
 <div align="left">
