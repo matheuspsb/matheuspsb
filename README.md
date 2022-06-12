@@ -27,6 +27,7 @@
   <a href="https://twitter.com/whereisguete" alt="Twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:matheusslg1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5583996917370&text&app_absent=0" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-paulo-b6a017240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://open.spotify.com/user/226nsgtez3smgauwdtjhzgyfy" alt="Spotify" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black" target="_blank"></a>
 
 ![Snake animation](https://github.com/matheuspsb/matheuspsb/blob/output/github-contribution-grid-snake.svg)
