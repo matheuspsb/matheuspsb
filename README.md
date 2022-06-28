@@ -1,7 +1,7 @@
 ### <h1 font-size:35em>Welcome!</h1>
 <h3 font-size:10em>Hi, I'm Matheus Paulo!</h3>
 
-- 💼 I currently work at <a href="https://github.com/braiscompany" value="Braiscompany"/> like Front End Developer
+- 💼 I currently work at <a href="https://github.com/braiscompany">Braiscompany</a> like Front End Developer
 - 🌱  Currently studying: React Native
 - 📫 Contact me: matheusslg1@gmail.com
 ##
