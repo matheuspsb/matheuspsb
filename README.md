@@ -1,8 +1,9 @@
-### <h1 font-size:35em>Bem vindo!</h1>
-<h3 font-size:10em>Eu sou Matheus Paulo!</h3>
+### <h1 font-size:35em>Welcome!</h1>
+<h3 font-size:10em>Hi, I'm Matheus Paulo!</h3>
 
-- 🌱 Estudando React Native
-- 📫 Contato: matheusslg1@gmail.com
+- 💼 I currently work at Braiscompany like Front End Developer
+- 🌱  Currently studying: React Native
+- 📫 Contact me: matheusslg1@gmail.com
 ##
 <div align="left">
    <a href="https://github.com/matheuspsb">
