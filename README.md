@@ -21,7 +21,6 @@
    <img align="center" alt="Matheus-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Matheus-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    
-   tailwindcss-plain.svg
    
 </div>
 
