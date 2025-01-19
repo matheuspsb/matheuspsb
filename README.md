@@ -2,7 +2,7 @@
 <h3 font-size:10em>Hi, I'm Matheus Paulo!</h3>
 
 - 🌱  Currently studying: NodeJs
-- 📫 Contact me: matheusslg1@gmail.com
+- 📫 Contact me: dev.matheus.paulo@gmail.com
 ##
 <div align="left">
    <a href="https://github.com/matheuspsb">
