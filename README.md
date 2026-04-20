@@ -9,7 +9,7 @@
 <a href="mailto:dev.matheus.paulo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/matheus-paulo-b6a017240/">
+<a href="https://www.linkedin.com/in/matheuspaulosouza/">
   <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://api.whatsapp.com/send/?phone=5583996917370&text&app_absent=0">
