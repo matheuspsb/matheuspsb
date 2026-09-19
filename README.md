@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=200&section=header&text=Matheus%20Paulo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20React%20Native&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=200&section=header&text=Matheus%20Paulo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20NestJS&descSize=16&descAlignY=55&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Transformando+ideias+em+interfaces+incr%C3%ADveis;Apaixonado+por+React+%26+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Turning+ideas+into+great+products%2C+end+to+end;Passionate+about+React+%26+TypeScript;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,15 +20,16 @@
 
 <br/>
 
-## 🧑‍💻 &nbsp;Sobre mim
+## 🧑‍💻 &nbsp;About me
 
 ```yaml
-nome: Matheus Paulo
-localização: Brasil 🇧🇷
-foco_atual: NestJs
-stack_principal: [React, Next.js, TypeScript, React Native]
-aprendendo: [NestJs, Arquitetura de Software]
-objetivo: Criar experiências digitais memoráveis
+name: Matheus Paulo
+location: Brazil 🇧🇷
+role: Full Stack Developer
+current_focus: Full stack development, from the UI to the API
+main_stack: [React, Next.js, TypeScript, Node.js, React Native]
+learning: [NestJS, Software Architecture]
+goal: Build memorable digital experiences
 ```
 
 <br/>
@@ -48,11 +49,12 @@ objetivo: Criar experiências digitais memoráveis
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### Backend & Estudando
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Ferramentas
+#### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -83,7 +85,7 @@ objetivo: Criar experiências digitais memoráveis
 
 <br/>
 
-## 🐍 &nbsp;Contribuições
+## 🐍 &nbsp;Contributions
 
 <div align="center">
   <picture>
@@ -96,7 +98,7 @@ objetivo: Criar experiências digitais memoráveis
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheuspsb&color=6C63FF&style=for-the-badge&label=VISITANTES"/>
+  <img src="https://komarev.com/ghpvc/?username=matheuspsb&color=6C63FF&style=for-the-badge&label=VISITORS"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=120&section=footer"/>
